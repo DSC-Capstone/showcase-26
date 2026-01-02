@@ -1,0 +1,74 @@
+Group #,Submitted?,Names,Project Title (Want to change your title? Email Suraj.),Broad Area,Block (see hdsishowcase.com),Column F,Column G,Column H
+"Capstone students – see your assigned block in column E, and add your title in column C. Note that you must arrive 30 minutes before your block to check in and set up.",,,,,,,,
+A01-1,X,"Muchan Li, Luke Taylor, Raymond Song",Improving Performance of Vision Encoding LLMs with Contextual Prompts,💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),3,,A01 (Albert Hsiao)
+A01-2,X,"Aishani Mohapatra, Eudora Fong, Sally Yu",Application of Large Language Models to the Evaluation of an Automated System for Chest Radiograph Interpretation,💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),3,,A01 (Albert Hsiao)
+A02-1,X,"John Driscoll, Tyler Ngo, Ethan Lee",Genetic Correlations in Aging-Related Diseases: Colocalization and Enrichment Analysis,💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),3,,A02 (Tiffany Amariuta)
+A02-2,X,"Anton Beliakov, Lihao Liu, Gurman Dhaliwal",Dissecting Heritability and Causal Variants in Cancer Genomics,💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),3,,A02 (Tiffany Amariuta)
+A03-1,X,"Shrishti Seksaria, Teresa Lee, Zhilin Guo, Bryan Talavera",MedDash - Decoding Health Metrics to Enhance Patient Care,💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),4,,A03 (Benjamin Smarr)
+A03-2,X,"Hede Yang, Wenhua Tang, Eric Park, Yuchu Yan",MedDash - Decoding Health Metrics to Enhance Patient Care,💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),4,,A03 (Benjamin Smarr)
+A04-1,X,"William Trang, Niharika Malhotra, Sophia Lugo",Clearer Views For Cancer Research: Upgrading Chromosome Analysis,💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),3,,A04 (Vineet Bafna)
+A05-1,X,"Jiyeon Song, Vibha Sastry, Oakkar Aung, Rihana Mohamed",Sepsis Insight and Management Platform (SIMPL),💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),4,,A05 (Kyle Shannon)
+A05-2,X,"Diego Zavalza, Asif Mahdin, Zhuji Zhang, Colin Tran",Early Detection of Sepsis for ICU Patients utilizing LSTM Neural Network,💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),4,,A05 (Kyle Shannon)
+A06-1,X,"Erik Pak, Jared Dishman, Jiyong Kim, Kishan Pansuria",AMPs: A New Lens to Understanding the Tiny World of Microbes,💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),4,,A06 (Rob Knight)
+A06-2,X,"Jonathan Dong, Samuel Chu, Yiming Hao, Brianda Plascencia",Utilizing Deep Learning to Uncover Antimicrobial Peptides and Investigating their Associations with Diverse Diseases,💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),4,,A06 (Rob Knight)
+A07-1,X,"Sha Lei, Courtney Cheung, Shuyu Wang, Yutian Shi",Hierarchical Latent Variable Models for Neural Data Analysis,💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),4,,A07 (Mikio Aoi)
+A08-1,X,"Anthony Li, Arjun Malleswaran, Hovhannes Broyan",Optimizing Facial Expression Recognition Tasks for Children Utilizing CNN Architectures,💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),3,,A08 (Tauhidur Rahman)
+A08-2,X,"Anthony Dang, Chaninder Rishi, Varun Dinesh",Facial Expression Recognition: Predicting Early Signs of Psychopathological Disease Among Children,💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),3,,A08 (Tauhidur Rahman)
+A09-1,X,"Andrew Cheng, Terho Koivisto, Daniel Zhang, Daphne Fabella",Human Brain Connectivity using Resting State fMRI Data: Classification of Sex with Graph Neural Networks,💊 Medicine and Bioinformatics,Block 1 (11AM-12:30PM),4,53,A09 (Armin Schwartzman)
+A10-1,X,"Natalie Wu, Shivani Suthar, Samantha Horio, Joshua Brusewitz",Diversifying the Global Music Industry through Debiasing Recommender Systems,🤝 Causal Inference and Fairness,Block 1 (11AM-12:30PM),4,,A10 (Deloitte / Rasmus S Nielsen)
+A10-2,X,"Anika Garg, Jayson Leach, Stephanie Chavez, Benjamin Chen",BAGS - Bias Aware GridsearchCV,🤝 Causal Inference and Fairness,Block 1 (11AM-12:30PM),4,,A10 (Deloitte / Rasmus S Nielsen)
+A10-3,X,"Michael Garcia-Perez, Christine Deng",Mitigating Director Gender Bias in Movie Recommender Systems,🤝 Causal Inference and Fairness,Block 1 (11AM-12:30PM),2,,A10 (Deloitte / Rasmus S Nielsen)
+A11-1,X,"Valen Potloff, Tyler Gibbs",Advancing Structure Learning Methods for Time Series Data,🤝 Causal Inference and Fairness,Block 1 (11AM-12:30PM),2,,"A11 (Biwei Huang, Babak Salimi)"
+A11-2,X,"Yihan Xue, Jiawei Wang, Ziling Gong",Causal Inference in Recommender System: Manipulating Popularity Bias,🤝 Causal Inference and Fairness,Block 1 (11AM-12:30PM),3,,"A11 (Biwei Huang, Babak Salimi)"
+A11-3,X,"Arnav Khanna, Nithilan Muruganandham, Keenan Hom, Dean Carrion","Causal Analysis of Instantaneous and Time-Delayed Relations in the Earth System
+",🤝 Causal Inference and Fairness,Block 1 (11AM-12:30PM),4,,"A11 (Biwei Huang, Babak Salimi)"
+A14-1,X,"Flynn Osullivan, Jonathan Lo, Elsie Wang",Auditing Sentiment Analysis Algorithms for Bias,🤝 Causal Inference and Fairness,Block 1 (11AM-12:30PM),3,22,A14 (Stuart Geiger)
+A15-1,X,"Emily Chin, Riya Mhatre, Zaki Ahmed, Zhen Fang",Boosting Credit-bility: Improving Predictive Performance of Credit Default With XGBoost,⚙️ Distributed Systems and Other Applications,Block 1 (11AM-12:30PM),4,,A15 (Rod Albuyeh)
+A15-2,X,"Zafeer Syed, Terin Ambat",Efficient Credit Risk Modeling: Enhancing Scalability and Performance,⚙️ Distributed Systems and Other Applications,Block 1 (11AM-12:30PM),2,,A15 (Rod Albuyeh)
+A16-1,X,"Ho Kiu Lee, Yin Lai, Viraj Lohia, Eddie Ho",EthStates: Decentralized Real Estate Transactions ,⚙️ Distributed Systems and Other Applications,Block 1 (11AM-12:30PM),4,,A16 (Rajesh Gupta)
+A17-1,X,"Aryan Johari, Chi Wong, Lucas Papaioannou, Jacob Kell",Predictive Modeling for Perovskite Film Durability,⚙️ Distributed Systems and Other Applications,Block 1 (11AM-12:30PM),4,,A17 (David Fenning)
+A18-1,X,"Priscilla Hui, Medha Upadhyay, Minh Luc, Isa Vidanes",Cryptocurrency: User-Friendly Micropayment Channels,⚙️ Distributed Systems and Other Applications,Block 1 (11AM-12:30PM),4,,A18 (Franklin Templeton / Sheffield Nolan)
+A18-2,X,"Jing Lin, Stanley Park, Ruoyu Hou, Zhekai Wang",Simplifying Current Decentralized Micropayment Channels,⚙️ Distributed Systems and Other Applications,Block 1 (11AM-12:30PM),4,22,A18 (Franklin Templeton / Sheffield Nolan)
+B01-1,X,Yongce Li,SNIP: Machine Unlearning through Selective Neuron-wise Interpretable Pruning,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),1,,B01 (Lily Weng)
+B01-2,X,Hou Wan,CLIP Dissect - Automatic Evaluation,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),1,,B01 (Lily Weng)
+B01-3,X,"Hieu Luu, Joon Cha, Sungjin Choi, Jasmine Lo",Enhancing Emotion Recognition in AI: A CLIP-Dissect Approach,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),4,,B01 (Lily Weng)
+B02-1,X,"Guantong Zhang, Jaeda Gantulga, Matthew Swida, Jenny Song",Labeling Spectrogram of Audio Data to Detect Changes in Bird Behavior,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),4,,B02 (Yoav Freund)
+B03-1,X,"Jun Zhang, Keith Kwong, Jack Lim",Emulating The Effects of Climate Change with Deep Learning,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),3,,B03 (Duncan Watson-Parris)
+B03-2,X,"Benjamin Xue, Nathaniel Brodie, Kai Morita",How Emissions Will Impact Wildfire Risk,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),3,,B03 (Duncan Watson-Parris)
+B04-1,X,"Misa Franknedy, Tony Ta",Semantic UCSD Course Search,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),2,,B04 (Colin Jemmott)
+B04-2,X,"Mandy Xu, William Hu",Capstonian: An HDSI Capstone Search Gallery,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),2,,B04 (Colin Jemmott)
+B04-3,X,"Saachi Shenoy, Srianusha Nandula",Enhancing Historical Understanding with Retrieval Augmented Generation,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),2,,B04 (Colin Jemmott)
+B04-4,X,"Jiarui Xu, Megan Huynh",PicToPlate: From Ingredients to Recipes with Retrieval Augmented Generation,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),2,,B04 (Colin Jemmott)
+B05-1,X,"Joseph Samuel, Xian Kong, Alexander Jensen",Diffusion-Driven Shakespeare: Diffusion Models for Conditional Text Generation,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),3,,B05 (Arya Mazumdar)
+B06-1,X,"Lian Gan, Louie Cai, Christian Dermanuelian, Jeffery Lai",Hardware Acceleration of Machine Learning,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),4,,B06 (Rajesh Gupta)
+B07-1,X,"Vivian Chen, Yuyang Pang, Hang Liu, Michelle Tong",Congestion Prediction in IC Design using Graph Convolutional Network,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),4,,B07 (Qualcomm / Lindsey Kostas)
+B07-2,X,"James Bentley, Tommy Shen, Spencer Wueste, Srujan Gutta",Walking Cluster-GCN,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),4,,B07 (Qualcomm / Lindsey Kostas)
+B07-3,X,"Brian Chen, Lisa Hwang",Netlist Congestion Prediction With Graph Attention Network,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),2,,B07 (Qualcomm / Lindsey Kostas)
+B08-1,X,"Jonathan Cheung, Kevin Bui, Sunwoo Kim, Derek Wen",Enhancing Utility Pole Monitoring Through Automated Detection with Google Street View,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),4,,B08 (SDG&E / Phi Nguyen)
+B08-2,X,"Tram Nguyen, Mateo Ignacio, Brandon Luong, Kelly Park",CERA: A Community-Driven Platform for Enhancing Utility Safety,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),4,,B08 (SDG&E / Phi Nguyen)
+B08-3,X,"Noel Molina, Lauren Tran, Joshua Chuang, Alexander Denny",GRID: Geographic Reconnaissance for Infrastructure Detection,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),4,,B08 (SDG&E / Phi Nguyen)
+B09-1,X,"Zhixing Jiang, Jun Linwu, Oren Ciolli, Yiling Cao",Evidence-Augmented LLMs for Misinformation Detection,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),4,,B09 (Google / Ali Arsanjani)
+B09-2,X,"Lohit Geddam, Henry Luu, Nicholas Shor, Irisa Jin",Using Predictive and Generative AI to Detect Truthfulness in News Articles,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),4,,B09 (Google / Ali Arsanjani)
+B10-1,X,"Minjin Li, Emily Chen, Ryan Liao",San Diego Trip Destination Prediction,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),3,,"B10 (SANDAG / Cindy Burke, Ray Major)"
+B10-2,X,"Kelvin Nguyen, Kelly Luu, Manav Dixit, Mike Smith",Identifying Activity Centers in the San Diego Region,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),4,,"B10 (SANDAG / Cindy Burke, Ray Major)"
+B10-3,X,"Mariana Montoya, Maximilian Wei, Michael Lue",Forecasting Regional Aggregate Establishment Birth-Death Values: Using Algorithmic Modeling,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),3,,"B10 (SANDAG / Cindy Burke, Ray Major)"
+B11-1,X,"Ester Tsai, Zelong Wang, Atharva Kulkarni, Karina Chen",From Pixels to Pictures: Understanding Internal Representations in Latent Diffusion Models,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),4,,"B11 (Alex Cloninger, Rayan Saab)"
+B11-2,X,"Jessica Song, Zhengyun Nie, Wanting Mao, Jiatu Li",Beyond Text-to-Image: Layout-Grounded Stable Diffusion Optimization for Accurate Image Generation,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),4,,"B11 (Alex Cloninger, Rayan Saab)"
+B12-1,X,"Ricky Miura, Gita Anand, Sheena Patel",Exploring Complex Graph Representations of Highway Networks for Traffic Speed Prediction,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),3,,"B12 (Gal Mishne, Yusu Wang)"
+B12-2,X,"Yandong Xiang, Prabina Pokharel, Jingyu Zhang",Detecting Fraud With Oversampling Techniques and Sparsity Contraints,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),3,,"B12 (Gal Mishne, Yusu Wang)"
+B12-3,X,"Omar Almaymouni, Mishari Almusallam, Eugene Ku",FlyKD: Graph Knowledge Distillation on the Fly with Curriculum Learning,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),3,,"B12 (Gal Mishne, Yusu Wang)"
+B12-4,X,"Yunfan Long, Yujia Wang, Yuxin Guo",Graph Neural Networks for Enhancing Sentiment Analysis,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),3,,"B12 (Gal Mishne, Yusu Wang)"
+B13-1,X,"Sujen Kancherla, Sujay Talanki, Rehan Ali, Akshat Muir",Enhancing NanoGPT via Squentropy Loss and Hyperparameter Tuning,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),4,,"B13 (Misha Belkin, Yian Ma)"
+B13-2,X,"Carlos Monterosa, Abel Seyoum, Ethan Shapiro",Feature Learning in Soft Decision Trees,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),3,,"B13 (Misha Belkin, Yian Ma)"
+B13-3,X,"Daniel Shi, Licheng Hu, Tiffany Yu, Keyu Long, Grace Lam",Initializing with Underlying Mechanisms of Deep Convolutional Neural Network,🧠 Graphs and Deep Learning,Block 2 (1-2:30PM),5,103,"B13 (Misha Belkin, Yian Ma)"
+B14-1,X,"Yixuan Zhang, Haoyu Fu",Predicting Political Affiliations of Social Media Users,🗣️ Language Models,Block 1 (11AM-12:30PM),2,,B14 (Haojian Jin)
+B14-2,X,"Anna Liu, Sruthi Papanasa, Tonoya Ahmed, Vivian Lin",Developing Political Personas Through Generative Language Modeling,🗣️ Language Models,Block 1 (11AM-12:30PM),4,,B14 (Haojian Jin)
+B15-1,X,"Eugene Kim, Chenyang Dong, Wenzhou Lyu",WhatNext? - An AI-Powered Location Recommendation Application,🗣️ Language Models,Block 1 (11AM-12:30PM),3,,B15 (Jingbo Shang)
+B15-2,X,"Evelyn Yee, Theodore Hui, Linus Lin",EDH-LLM: Using NLP techniques to build card game decks,🗣️ Language Models,Block 1 (11AM-12:30PM),3,,B15 (Jingbo Shang)
+B16-1,X,"Yunhao Li, Jieqi Liu",Diffusion Model Learning Package,🗣️ Language Models,Block 1 (11AM-12:30PM),2,,B16 (Zhiting Hu)
+B16-2,X,"Siyu Chen, Jinxin Xiao, Celine Zhao, Yexiaolu He",Leveraging RAG for enhancing AI Interactions in Generative Agents,🗣️ Language Models,Block 1 (11AM-12:30PM),4,,B16 (Zhiting Hu)
+B17-1,X,"Albert Miao, Ge Gao, Aritra Das",Optimizing LLaVA: Measuring Mistral Against LLaMA for Visual Instruction Tuning,🗣️ Language Models,Block 1 (11AM-12:30PM),3,,B17 (Hao Zhang)
+B17-2,X,"Weiyue Li, Xiaoyue Wang, Yi Li",NOPS : Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models Guided Layouts,🗣️ Language Models,Block 1 (11AM-12:30PM),3,,B17 (Hao Zhang)
+B18-1,X,"Michael Chen, Yifan Li, Aneesh Navanale, William Xia",Applications of Machine Learning for Creditworthiness in the Financial Industry,🗣️ Language Models,Block 1 (11AM-12:30PM),4,,"B18 (Prism Data / Brian Duke, Berk Ustun)"
+B18-2,X,"Kuangyu Zou, Jessica Guzman, Haicheng Xu, Xuewen Yang",Credit Score Alternative: Scoring Risk of Default using Bank Transaction Data,🗣️ Language Models,Block 1 (11AM-12:30PM),4,,"B18 (Prism Data / Brian Duke, Berk Ustun)"
+B18-3,X,"Sheng Zhou, Lakshmikethan Bethamcharla, Darren Jiang, Victor Thai",Assessing Probability of Consumer Default based on Historical Banking Transactions,🗣️ Language Models,Block 1 (11AM-12:30PM),4,36,"B18 (Prism Data / Brian Duke, Berk Ustun)"

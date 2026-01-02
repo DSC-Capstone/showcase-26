@@ -1,0 +1,236 @@
+Student,PID,Email,Section
+"Song, Raymond",A16372018,rysong@ucsd.edu,A01 (Albert Hsiao)
+"Li, Muchan",A15887258,mul005@ucsd.edu,A01 (Albert Hsiao)
+"Taylor, Luke",A16256667,lwtaylor@ucsd.edu,A01 (Albert Hsiao)
+"Fong, Eudora",A15598207,efong@ucsd.edu,A01 (Albert Hsiao)
+"Mohapatra, Aishani",A16652568,aimohapatra@ucsd.edu,A01 (Albert Hsiao)
+"Yu, Sally",A16519059,s8yu@ucsd.edu,A01 (Albert Hsiao)
+"Liu, Lihao",A16156692,liliu@ucsd.edu,A02 (Tiffany Amariuta)
+"Lee, Ethan",A16265843,e3lee@ucsd.edu,A02 (Tiffany Amariuta)
+"Driscoll, John",A16298297,jjdrisco@ucsd.edu,A02 (Tiffany Amariuta)
+"Dhaliwal, Gurman",A16262477,gdhaliwa@ucsd.edu,A02 (Tiffany Amariuta)
+"Beliakov, Anton",A16491956,abeliako@ucsd.edu,A02 (Tiffany Amariuta)
+"Ngo, Tyler",A16664857,tdngo@ucsd.edu,A02 (Tiffany Amariuta)
+"Lee, Teresa",A16327096,t1lee@ucsd.edu,A03 (Benjamin Smarr)
+"Yang, Hede",A16635784,hey001@ucsd.edu,A03 (Benjamin Smarr)
+"Yan, Yuchu",A16634966,y6yan@ucsd.edu,A03 (Benjamin Smarr)
+"Talavera, Bryan",A14378593,brtalave@ucsd.edu,A03 (Benjamin Smarr)
+"Seksaria, Shrishti",A16290003,sseksari@ucsd.edu,A03 (Benjamin Smarr)
+"Park, Eric",A16678916,e1park@ucsd.edu,A03 (Benjamin Smarr)
+"Guo, Zhilin",A16341292,zhg003@ucsd.edu,A03 (Benjamin Smarr)
+"Tang, Wenhua",A16872903,w7tang@ucsd.edu,A03 (Benjamin Smarr)
+"Trang, William",A16679845,wtrang@ucsd.edu,A04 (Vineet Bafna)
+"Lugo, Sophia",A16377132,slugo@ucsd.edu,A04 (Vineet Bafna)
+"Malhotra, Niharika",A16260253,n1malhot@ucsd.edu,A04 (Vineet Bafna)
+"Sastry, Vibha",A16277322,vsastry@ucsd.edu,A05 (Kyle Shannon)
+"Mahdin, Asif",A16284328,amahdin@ucsd.edu,A05 (Kyle Shannon)
+"Aung, Oakkar",A15391369,oaaung@ucsd.edu,A05 (Kyle Shannon)
+"Zhang, Zhuji",A16329547,zhz044@ucsd.edu,A05 (Kyle Shannon)
+"Zavalza, Diego",A16193208,dzavalza@ucsd.edu,A05 (Kyle Shannon)
+"Tran, Colin",A17170764,ctt005@ucsd.edu,A05 (Kyle Shannon)
+"Song, Jiyeon",A17151720,jis036@ucsd.edu,A05 (Kyle Shannon)
+"Mohamed, Rihana",A16668393,rmohamed@ucsd.edu,A05 (Kyle Shannon)
+"Chu, Samuel",A16962497,sjchu@ucsd.edu,A06 (Rob Knight)
+"Plascencia, Brianda",A16687084,bplascencia@ucsd.edu,A06 (Rob Knight)
+"Hao, Yiming",A16672884,y7hao@ucsd.edu,A06 (Rob Knight)
+"Pak, Erik",A16653881,e2pak@ucsd.edu,A06 (Rob Knight)
+"Pansuria, Kishan",A16227757,kpansuri@ucsd.edu,A06 (Rob Knight)
+"Dishman, Jared",A16688060,jdishman@ucsd.edu,A06 (Rob Knight)
+"Kim, Jiyong",A16581228,jik032@ucsd.edu,A06 (Rob Knight)
+"Lei, Sha",A16344449,s1lei@ucsd.edu,A07 (Mikio Aoi)
+"Cheung, Courtney",A16394013,c6cheung@ucsd.edu,A07 (Mikio Aoi)
+"Shi, Yutian",A16356870,yus029@ucsd.edu,A07 (Mikio Aoi)
+"Wang, Shuyu",A16357263,shw043@ucsd.edu,A07 (Mikio Aoi)
+"Broyan, Hovhannes",A16397955,hbroyan@ucsd.edu,A08 (Tauhidur Rahman)
+"Dang, Anthony",A16469406,andang@ucsd.edu,A08 (Tauhidur Rahman)
+"Li, Anthony",A16412380,all010@ucsd.edu,A08 (Tauhidur Rahman)
+"Malleswaran, Arjun",A16248416,amallesw@ucsd.edu,A08 (Tauhidur Rahman)
+"Rishi, Chaninder",A16233331,crishi@ucsd.edu,A08 (Tauhidur Rahman)
+"Dinesh, Varun",A16680422,vdinesh@ucsd.edu,A08 (Tauhidur Rahman)
+"Fabella, Daphne",A16259160,dfabella@ucsd.edu,A09 (Armin Schwartzman)
+"Zhang, Daniel",A16500214,yiz029@ucsd.edu,A09 (Armin Schwartzman)
+"Koivisto, Terho",A16687575,tkoivisto@ucsd.edu,A09 (Armin Schwartzman)
+"Cheng, Andrew",A16679544,apcheng@ucsd.edu,A09 (Armin Schwartzman)
+"Garg, Anika",A16653461,agarg@ucsd.edu,A10 (Deloitte / Rasmus S Nielsen)
+"Chen, Benjamin",A16665183,bhc001@ucsd.edu,A10 (Deloitte / Rasmus S Nielsen)
+"Deng, Christine",A16279452,cydeng@ucsd.edu,A10 (Deloitte / Rasmus S Nielsen)
+"Garcia-Perez, Michael",A16366187,mig009@ucsd.edu,A10 (Deloitte / Rasmus S Nielsen)
+"Horio, Samantha",A16160343,shorio@ucsd.edu,A10 (Deloitte / Rasmus S Nielsen)
+"Leach, Jayson",A16469391,jleach@ucsd.edu,A10 (Deloitte / Rasmus S Nielsen)
+"Suthar, Shivani",A16138767,ssuthar@ucsd.edu,A10 (Deloitte / Rasmus S Nielsen)
+"Chavez, Stephanie",A16413042,stchavez@ucsd.edu,A10 (Deloitte / Rasmus S Nielsen)
+"Wu, Natalie",A16668102,n3wu@ucsd.edu,A10 (Deloitte / Rasmus S Nielsen)
+"Brusewitz, Joshua",A16383198,jbrusewi@ucsd.edu,A10 (Deloitte / Rasmus S Nielsen)
+"Gibbs, Tyler",A13355037,tgibbs@ucsd.edu,"A11 (Biwei Huang, Babak Salimi)"
+"Gong, Ziling",A16477583,zgong@ucsd.edu,"A11 (Biwei Huang, Babak Salimi)"
+"Hom, Keenan",A16389027,kwhom@ucsd.edu,"A11 (Biwei Huang, Babak Salimi)"
+"Wang, Jiawei",A16132720,jiw076@ucsd.edu,"A11 (Biwei Huang, Babak Salimi)"
+"Khanna, Arnav",A16946426,arkhanna@ucsd.edu,"A11 (Biwei Huang, Babak Salimi)"
+"Muruganandham, Nithilan",A16668306,nmuruganandham@ucsd.edu,"A11 (Biwei Huang, Babak Salimi)"
+"Potloff, Valen",A16225246,vpotloff@ucsd.edu,"A11 (Biwei Huang, Babak Salimi)"
+"Carrion, Dean",A16680136,dcarrion@ucsd.edu,"A11 (Biwei Huang, Babak Salimi)"
+"Xue, Yihan",A16477999,y6xue@ucsd.edu,"A11 (Biwei Huang, Babak Salimi)"
+"Wang, Elsie",A16655032,e2wang@ucsd.edu,A14 (Stuart Geiger)
+"Osullivan, Flynn",A15833856,fosulliv@ucsd.edu,A14 (Stuart Geiger)
+"Lo, Jonathan",A16208701,jolo@ucsd.edu,A14 (Stuart Geiger)
+"Chin, Emily",A15896669,e1chin@ucsd.edu,A15 (Rod Albuyeh)
+"Ahmed, Zaki",A16671152,zahmed@ucsd.edu,A15 (Rod Albuyeh)
+"Syed, Zafeer",A16648444,zsyed@ucsd.edu,A15 (Rod Albuyeh)
+"Mhatre, Riya",A16646002,rmhatre@ucsd.edu,A15 (Rod Albuyeh)
+"Fang, Zhen",A16351234,zhfang@ucsd.edu,A15 (Rod Albuyeh)
+"Ambat, Terin",A16668182,tambat@ucsd.edu,A15 (Rod Albuyeh)
+"Lai, Yin",A15779757,y2lai@ucsd.edu,A16 (Rajesh Gupta)
+"Lee, Ho Kiu",A15879338,hkl002@ucsd.edu,A16 (Rajesh Gupta)
+"Lohia, Viraj",A16425718,vlohia@ucsd.edu,A16 (Rajesh Gupta)
+"Ho, Eddie",A17139841,boho@ucsd.edu,A16 (Rajesh Gupta)
+"Kell, Jacob",A16508046,jkell@ucsd.edu,A17 (David Fenning)
+"Papaioannou, Lucas",A15511142,lpapaioa@ucsd.edu,A17 (David Fenning)
+"Johari, Aryan",A15974429,ajohari@ucsd.edu,A17 (David Fenning)
+"Wong, Chi",A17235301,csw002@ucsd.edu,A17 (David Fenning)
+"Vidanes, Isa",A16363180,ividanes@ucsd.edu,A18 (Franklin Templeton / Sheffield Nolan)
+"Upadhyay, Medha",A16328180,mupadhya@ucsd.edu,A18 (Franklin Templeton / Sheffield Nolan)
+"Luc, Minh",A17209607,mluc@ucsd.edu,A18 (Franklin Templeton / Sheffield Nolan)
+"Lin, Jing",A16304335,jwl002@ucsd.edu,A18 (Franklin Templeton / Sheffield Nolan)
+"Hui, Priscilla",A16237487,pyhui@ucsd.edu,A18 (Franklin Templeton / Sheffield Nolan)
+"Hou, Ruoyu",A16411588,rhou@ucsd.edu,A18 (Franklin Templeton / Sheffield Nolan)
+"Wang, Zhekai",A15839812,zhw040@ucsd.edu,A18 (Franklin Templeton / Sheffield Nolan)
+"Park, Stanley",A16650404,stpark@ucsd.edu,A18 (Franklin Templeton / Sheffield Nolan)
+"Li, Yongce",A16320745,yol013@ucsd.edu,B01 (Lily Weng)
+"Lo, Jasmine",A16960447,j2lo@ucsd.edu,B01 (Lily Weng)
+"Luu, Hieu",A16857900,hhluu@ucsd.edu,B01 (Lily Weng)
+"Wan, Hou",A16462095,hwan@ucsd.edu,B01 (Lily Weng)
+"Cha, Joon",A15263726,jhc123@ucsd.edu,B01 (Lily Weng)
+"Choi, Sungjin",A15225592,suc074@ucsd.edu,B01 (Lily Weng)
+"Swida, Matthew",A16400831,mswida@ucsd.edu,B02 (Yoav Freund)
+"Song, Jenny",A16201789,jis014@ucsd.edu,B02 (Yoav Freund)
+"Zhang, Guantong",A16421349,g4zhang@ucsd.edu,B02 (Yoav Freund)
+"Gantulga, Jaeda",A16682683,sgantulga@ucsd.edu,B02 (Yoav Freund)
+"Lim, Jack",A16919063,jklim@ucsd.edu,B03 (Duncan Watson-Parris)
+"Brodie, Nathaniel",A15874575,njbrodie@ucsd.edu,B03 (Duncan Watson-Parris)
+"Kwong, Keith",A16326766,khkwong@ucsd.edu,B03 (Duncan Watson-Parris)
+"Morita, Kai",A16496354,kmorita@ucsd.edu,B03 (Duncan Watson-Parris)
+"Xue, Benjamin",A16442663,bxue@ucsd.edu,B03 (Duncan Watson-Parris)
+"Zhang, Jun",A16130013,juz018@ucsd.edu,B03 (Duncan Watson-Parris)
+"Huynh, Megan",A16403704,mlhuynh@ucsd.edu,B04 (Colin Jemmott)
+"Hu, William",A16368192,wyhu@ucsd.edu,B04 (Colin Jemmott)
+"Franknedy, Misa",A16446539,mfrankne@ucsd.edu,B04 (Colin Jemmott)
+"Nandula, Srianusha",A16226087,snandula@ucsd.edu,B04 (Colin Jemmott)
+"Xu, Mandy",A16258994,max002@ucsd.edu,B04 (Colin Jemmott)
+"Xu, Jiarui",A16306777,jix028@ucsd.edu,B04 (Colin Jemmott)
+"Ta, Tony",A17194866,ttta@ucsd.edu,B04 (Colin Jemmott)
+"Shenoy, Saachi",A16296514,svshenoy@ucsd.edu,B04 (Colin Jemmott)
+"Jensen, Alexander",A16213320,adjensen@ucsd.edu,B05 (Arya Mazumdar)
+"Samuel, Joseph",A16787115,josamuel@ucsd.edu,B05 (Arya Mazumdar)
+"Kong, Xian",A16512288,xykong@ucsd.edu,B05 (Arya Mazumdar)
+"Cai, Louie",A16427724,lecai@ucsd.edu,B06 (Rajesh Gupta)
+"Lai, Jeffery",A17045564,j8lai@ucsd.edu,B06 (Rajesh Gupta)
+"Gan, Lian",A16998869,lgan@ucsd.edu,B06 (Rajesh Gupta)
+"Dermanuelian, Christian",A16677966,cdermanuelian@ucsd.edu,B06 (Rajesh Gupta)
+"Chen, Vivian",A16669141,vnchen@ucsd.edu,B07 (Qualcomm / Lindsey Kostas)
+"Gutta, Srujan",A17156406,sgutta@ucsd.edu,B07 (Qualcomm / Lindsey Kostas)
+"Hwang, Lisa",A16477024,lshwang@ucsd.edu,B07 (Qualcomm / Lindsey Kostas)
+"Liu, Hang",A16487866,hal064@ucsd.edu,B07 (Qualcomm / Lindsey Kostas)
+"Chen, Brian",A16377892,brc004@ucsd.edu,B07 (Qualcomm / Lindsey Kostas)
+"Pang, Yuyang",A16424323,yupang@ucsd.edu,B07 (Qualcomm / Lindsey Kostas)
+"Shen, Tommy",A16036867,twshen@ucsd.edu,B07 (Qualcomm / Lindsey Kostas)
+"Tong, Michelle",A16351783,m1tong@ucsd.edu,B07 (Qualcomm / Lindsey Kostas)
+"Wueste, Spencer",A16655314,swueste@ucsd.edu,B07 (Qualcomm / Lindsey Kostas)
+"Bentley, James",A17231302,jbentley@ucsd.edu,B07 (Qualcomm / Lindsey Kostas)
+"Tran, Lauren",A17240472,lmt001@ucsd.edu,B08 (SDG&E / Phi Nguyen)
+"Bui, Kevin",A16628439,k5bui@ucsd.edu,B08 (SDG&E / Phi Nguyen)
+"Cheung, Jonathan",A16292788,jdcheung@ucsd.edu,B08 (SDG&E / Phi Nguyen)
+"Chuang, Joshua",A16233072,jcchuang@ucsd.edu,B08 (SDG&E / Phi Nguyen)
+"Denny, Alexander",A15941008,amdenny@ucsd.edu,B08 (SDG&E / Phi Nguyen)
+"Ignacio, Mateo",A16660959,mjignacio@ucsd.edu,B08 (SDG&E / Phi Nguyen)
+"Kim, Sunwoo",A16677212,suk012@ucsd.edu,B08 (SDG&E / Phi Nguyen)
+"Molina, Noel",A17153626,nmmolina@ucsd.edu,B08 (SDG&E / Phi Nguyen)
+"Nguyen, Tram",A17181182,tnn009@ucsd.edu,B08 (SDG&E / Phi Nguyen)
+"Park, Kelly",A16665298,khpark@ucsd.edu,B08 (SDG&E / Phi Nguyen)
+"Wen, Derek",A16327645,d3wen@ucsd.edu,B08 (SDG&E / Phi Nguyen)
+"Luong, Brandon",A17165655,baluong@ucsd.edu,B08 (SDG&E / Phi Nguyen)
+"Shor, Nicholas",A15808220,nshor@ucsd.edu,B09 (Google / Ali Arsanjani)
+"Linwu, Jun",A16452821,julinwu@ucsd.edu,B09 (Google / Ali Arsanjani)
+"Jin, Irisa",A16386965,irjin@ucsd.edu,B09 (Google / Ali Arsanjani)
+"Jiang, Zhixing",A16400450,zhj003@ucsd.edu,B09 (Google / Ali Arsanjani)
+"Geddam, Lohit",A16374851,lgeddam@ucsd.edu,B09 (Google / Ali Arsanjani)
+"Ciolli, Oren",A15792879,ociolli@ucsd.edu,B09 (Google / Ali Arsanjani)
+"Cao, Yiling",A16458236,yic055@ucsd.edu,B09 (Google / Ali Arsanjani)
+"Luu, Henry",A16509411,hluu@ucsd.edu,B09 (Google / Ali Arsanjani)
+"Montoya, Mariana",A17162748,m2montoya@ucsd.edu,"B10 (SANDAG / Cindy Burke, Ray Major,, Liang Tian)"
+"Dixit, Manav",A16640571,mudixit@ucsd.edu,"B10 (SANDAG / Cindy Burke, Ray Major,, Liang Tian)"
+"Li, Minjin",A16663430,mil035@ucsd.edu,"B10 (SANDAG / Cindy Burke, Ray Major,, Liang Tian)"
+"Liao, Ryan",A15776292,rsliao@ucsd.edu,"B10 (SANDAG / Cindy Burke, Ray Major,, Liang Tian)"
+"Lue, Michael",A16649264,mlue@ucsd.edu,"B10 (SANDAG / Cindy Burke, Ray Major,, Liang Tian)"
+"Luu, Kelly",A16312606,k6luu@ucsd.edu,"B10 (SANDAG / Cindy Burke, Ray Major,, Liang Tian)"
+"Nguyen, Kelvin",A16450340,ktn015@ucsd.edu,"B10 (SANDAG / Cindy Burke, Ray Major,, Liang Tian)"
+"Chen, Emily",A16668823,e6chen@ucsd.edu,"B10 (SANDAG / Cindy Burke, Ray Major,, Liang Tian)"
+"Wei, Maximilian",A16668874,mawei@ucsd.edu,"B10 (SANDAG / Cindy Burke, Ray Major,, Liang Tian)"
+"Smith, Mike",A16398342,mss002@ucsd.edu,"B10 (SANDAG / Cindy Burke, Ray Major,, Liang Tian)"
+"Tsai, Ester",A16312707,etsai@ucsd.edu,"B11 (Alex Cloninger, Rayan Saab)"
+"Song, Jessica",A17116675,jwsong@ucsd.edu,"B11 (Alex Cloninger, Rayan Saab)"
+"Nie, Zhengyun",A16421009,znie@ucsd.edu,"B11 (Alex Cloninger, Rayan Saab)"
+"Wang, Zelong",A16630636,zew013@ucsd.edu,"B11 (Alex Cloninger, Rayan Saab)"
+"Li, Jiatu",A16428204,jil165@ucsd.edu,"B11 (Alex Cloninger, Rayan Saab)"
+"Kulkarni, Atharva",A16649077,apkulkarni@ucsd.edu,"B11 (Alex Cloninger, Rayan Saab)"
+"Chen, Karina",A16322803,kac009@ucsd.edu,"B11 (Alex Cloninger, Rayan Saab)"
+"Mao, Wanting",A16410177,wamao@ucsd.edu,"B11 (Alex Cloninger, Rayan Saab)"
+"Guo, Yuxin",A16349130,y5guo@ucsd.edu,"B12 (Gal Mishne, Yusu Wang)"
+"Anand, Gita",A16447718,gianand@ucsd.edu,"B12 (Gal Mishne, Yusu Wang)"
+"Ku, Eugene",A16335723,euku@ucsd.edu,"B12 (Gal Mishne, Yusu Wang)"
+"Long, Yunfan",A16665173,yulong@ucsd.edu,"B12 (Gal Mishne, Yusu Wang)"
+"Miura, Ricky",A16628355,rmiura@ucsd.edu,"B12 (Gal Mishne, Yusu Wang)"
+"Patel, Sheena",A16641602,s4patel@ucsd.edu,"B12 (Gal Mishne, Yusu Wang)"
+"Pokharel, Prabina",A16679415,p2pokharel@ucsd.edu,"B12 (Gal Mishne, Yusu Wang)"
+"Wang, Yujia",A16277270,yuw103@ucsd.edu,"B12 (Gal Mishne, Yusu Wang)"
+"Almusallam, Mishari",A16367122,malmusal@ucsd.edu,"B12 (Gal Mishne, Yusu Wang)"
+"Zhang, Jingyu",A15509346,jiz036@ucsd.edu,"B12 (Gal Mishne, Yusu Wang)"
+"Almaymouni, Omar",A16200413,oalmaymo@ucsd.edu,"B12 (Gal Mishne, Yusu Wang)"
+"Xiang, Yandong",A16629743,yaxiang@ucsd.edu,"B12 (Gal Mishne, Yusu Wang)"
+"Yu, Tiffany",A16341528,z5yu@ucsd.edu,"B13 (Misha Belkin, Yian Ma)"
+"Ali, Rehan",A16211966,rmali@ucsd.edu,"B13 (Misha Belkin, Yian Ma)"
+"Hu, Licheng",A16389765,l2hu@ucsd.edu,"B13 (Misha Belkin, Yian Ma)"
+"Lam, Grace",A16393696,pklam@ucsd.edu,"B13 (Misha Belkin, Yian Ma)"
+"Long, Keyu",A16148318,kelong@ucsd.edu,"B13 (Misha Belkin, Yian Ma)"
+"Kancherla, Sujen",A16803835,skancherla@ucsd.edu,"B13 (Misha Belkin, Yian Ma)"
+"Seyoum, Abel",A16365939,aseyoum@ucsd.edu,"B13 (Misha Belkin, Yian Ma)"
+"Shapiro, Ethan",A16220864,enshapir@ucsd.edu,"B13 (Misha Belkin, Yian Ma)"
+"Shi, Daniel",A16413482,dshi@ucsd.edu,"B13 (Misha Belkin, Yian Ma)"
+"Talanki, Sujay",A16433981,stalanki@ucsd.edu,"B13 (Misha Belkin, Yian Ma)"
+"Muir, Akshat",A16663537,akmuir@ucsd.edu,"B13 (Misha Belkin, Yian Ma)"
+"Monterosa, Carlos",A17175939,cmonterosa@ucsd.edu,"B13 (Misha Belkin, Yian Ma)"
+"Zhang, Yixuan",A16546613,yiz119@ucsd.edu,B14 (Haojian Jin)
+"Papanasa, Sruthi",A16233119,spapanas@ucsd.edu,B14 (Haojian Jin)
+"Liu, Anna",A16671502,a2liu@ucsd.edu,B14 (Haojian Jin)
+"Lin, Vivian",A16677668,vlin@ucsd.edu,B14 (Haojian Jin)
+"Fu, Haoyu",A16633278,h6fu@ucsd.edu,B14 (Haojian Jin)
+"Ahmed, Tonoya",A16672415,ttahmed@ucsd.edu,B14 (Haojian Jin)
+"Hui, Theodore",A16203376,tchui@ucsd.edu,B15 (Jingbo Shang)
+"Dong, Chenyang",A15970793,c1dong@ucsd.edu,B15 (Jingbo Shang)
+"Kim, Eugene",A16471917,eykim@ucsd.edu,B15 (Jingbo Shang)
+"Yee, Evelyn",A16450735,eyee@ucsd.edu,B15 (Jingbo Shang)
+"Lyu, Wenzhou",A16473354,wlyu@ucsd.edu,B15 (Jingbo Shang)
+"Lin, Linus",A16663909,l6lin@ucsd.edu,B15 (Jingbo Shang)
+"Chen, Siyu",A15892582,sic011@ucsd.edu,B16 (Zhiting Hu)
+"He, Yexiaolu",A16380226,yehe@ucsd.edu,B16 (Zhiting Hu)
+"Li, Yunhao",A16632274,yul080@ucsd.edu,B16 (Zhiting Hu)
+"Liu, Jieqi",A16286829,jil146@ucsd.edu,B16 (Zhiting Hu)
+"Xiao, Jinxin",A16686562,j5xiao@ucsd.edu,B16 (Zhiting Hu)
+"Zhao, Celine",A16474817,cbzhao@ucsd.edu,B16 (Zhiting Hu)
+"Li, Yi",A16316586,yil115@ucsd.edu,B17 (Hao Zhang)
+"Gao, Ge",A15778525,ggao@ucsd.edu,B17 (Hao Zhang)
+"Wang, Xiaoyue",A16340735,xiw027@ucsd.edu,B17 (Hao Zhang)
+"Das, Aritra",A16768543,ardas@ucsd.edu,B17 (Hao Zhang)
+"Li, Weiyue",A16226730,wel019@ucsd.edu,B17 (Hao Zhang)
+"Miao, Albert",A15955587,amiao@ucsd.edu,B17 (Hao Zhang)
+"Chen, Michael",A16632703,mic012@ucsd.edu,"B18 (Prism Data / Brian Duke, Berk Ustun)"
+"Zhou, Sheng",A16570242,shz040@ucsd.edu,"B18 (Prism Data / Brian Duke, Berk Ustun)"
+"Yang, Xuewen",A16225582,xuy001@ucsd.edu,"B18 (Prism Data / Brian Duke, Berk Ustun)"
+"Xu, Haicheng",A16643960,hax004@ucsd.edu,"B18 (Prism Data / Brian Duke, Berk Ustun)"
+"Xia, William",A16436624,wxia@ucsd.edu,"B18 (Prism Data / Brian Duke, Berk Ustun)"
+"Thai, Victor",A16666301,v3thai@ucsd.edu,"B18 (Prism Data / Brian Duke, Berk Ustun)"
+"Navanale, Aneesh",A15983523,anavanal@ucsd.edu,"B18 (Prism Data / Brian Duke, Berk Ustun)"
+"Li, Yifan",A16669790,yil011@ucsd.edu,"B18 (Prism Data / Brian Duke, Berk Ustun)"
+"Jiang, Darren",A16195691,dzjiang@ucsd.edu,"B18 (Prism Data / Brian Duke, Berk Ustun)"
+"Guzman, Jessica",A15791056,jeguzman@ucsd.edu,"B18 (Prism Data / Brian Duke, Berk Ustun)"
+"Bethamcharla, Lakshmikethan",A16667125,lbethamcharla@ucsd.edu,"B18 (Prism Data / Brian Duke, Berk Ustun)"
+"Zou, Kuangyu",A16367084,kzou@ucsd.edu,"B18 (Prism Data / Brian Duke, Berk Ustun)"
